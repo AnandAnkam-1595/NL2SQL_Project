@@ -7,7 +7,7 @@ from vanna.core.user.models import User
 # Create a user context for seeding
 seed_user = User(id="admin", email="admin@example.com", group_memberships=["admin", "user"])
 
-# ✅ Provide all required ToolContext fields
+# Provide all required ToolContext fields
 ctx = ToolContext(
     user=seed_user,
     conversation_id=str(uuid.uuid4()),
@@ -47,7 +47,7 @@ async def seed():
             context=ctx,
             success=True
         )
-        print(f"  ✅ Seeded: {q}")
-    print("\n🎉 Memory seeded successfully!")
+        print(f"  Seeded: {q}")
+    print("\n Memory seeded successfully!")
 
 asyncio.run(seed())
