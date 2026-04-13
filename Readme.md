@@ -47,7 +47,7 @@ NL2SQL_Project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/NL2SQL_Project.git
+git clone https://github.com/AnandAnkam-1595/NL2SQL_Project.git
 cd NL2SQL_Project
 ```
 
