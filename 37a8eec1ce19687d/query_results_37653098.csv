@@ -1,0 +1,31 @@
+id,patient_id,doctor_id,appointment_date,status,notes
+17,78,5,2026-03-07 04:46:05,Scheduled,
+30,87,7,2026-03-06 04:16:05,Completed,Patient notes 29
+45,3,1,2026-03-03 07:01:05,Scheduled,
+57,192,5,2026-03-03 04:01:05,Scheduled,
+74,77,2,2026-03-07 04:46:05,Scheduled,
+77,29,2,2026-03-04 07:46:05,Completed,Patient notes 76
+102,132,1,2026-03-04 05:31:05,Completed,Patient notes 101
+111,46,9,2026-03-04 09:31:05,Scheduled,
+123,54,10,2026-03-19 04:01:05,Completed,Patient notes 122
+131,84,2,2026-03-17 03:01:05,Scheduled,
+155,40,15,2026-03-13 06:01:05,Cancelled,
+189,187,3,2026-03-13 06:46:05,Completed,Patient notes 188
+196,141,8,2026-03-18 08:01:05,Completed,
+200,93,9,2026-03-25 02:46:05,Completed,
+234,102,6,2026-03-13 07:46:05,Completed,
+253,113,4,2026-03-18 02:16:05,No-Show,Patient notes 252
+264,104,4,2026-03-10 10:31:05,Completed,Patient notes 263
+284,136,15,2026-03-29 07:31:05,Completed,
+315,40,13,2026-03-01 01:46:05,No-Show,Patient notes 314
+318,79,6,2026-03-23 08:31:05,Completed,Patient notes 317
+351,138,7,2026-03-18 05:31:05,Completed,Patient notes 350
+358,161,1,2026-03-22 04:46:05,Scheduled,Patient notes 357
+369,24,5,2026-03-09 06:16:05,Completed,Patient notes 368
+377,108,5,2026-03-23 09:16:05,Scheduled,
+408,23,2,2026-03-05 03:01:05,Completed,
+422,3,5,2026-03-26 08:46:05,Scheduled,Patient notes 421
+442,63,1,2026-03-11 06:01:05,Scheduled,Patient notes 441
+465,25,12,2026-03-01 07:46:05,Completed,
+467,94,8,2026-03-09 10:31:05,Completed,
+487,104,4,2026-03-12 01:16:05,Completed,Patient notes 486
